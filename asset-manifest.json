@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.43708318.css",
-    "main.js": "/static/js/main.f07827a4.js",
-    "static/media/drink.png": "/static/media/drink.575850addf206b445798.png",
-    "static/media/bgMontreal.jpg": "/static/media/bgMontreal.33e6b93c9a1ac4a9e67d.jpg",
-    "static/media/lambo.jpg": "/static/media/lambo.6af1b1b6041152804440.jpg",
-    "static/media/CarVersion1.PNG": "/static/media/CarVersion1.ddcd33ca19c025696495.PNG",
-    "static/media/watch.jpg": "/static/media/watch.cc5999a2ead7fa67cddb.jpg",
-    "index.html": "/index.html",
-    "static/media/form.svg": "/static/media/form.2061e63fd2183d8c78e50127c5c2a08e.svg",
-    "main.43708318.css.map": "/static/css/main.43708318.css.map",
-    "main.f07827a4.js.map": "/static/js/main.f07827a4.js.map"
+    "main.css": "./static/css/main.43708318.css",
+    "main.js": "./static/js/main.2ca64072.js",
+    "static/media/drink.png": "./static/media/drink.575850addf206b445798.png",
+    "static/media/bgMontreal.jpg": "./static/media/bgMontreal.33e6b93c9a1ac4a9e67d.jpg",
+    "static/media/lambo.jpg": "./static/media/lambo.6af1b1b6041152804440.jpg",
+    "static/media/CarVersion1.PNG": "./static/media/CarVersion1.ddcd33ca19c025696495.PNG",
+    "static/media/watch.jpg": "./static/media/watch.cc5999a2ead7fa67cddb.jpg",
+    "index.html": "./index.html",
+    "static/media/form.svg": "./static/media/form.2061e63fd2183d8c78e50127c5c2a08e.svg",
+    "main.43708318.css.map": "./static/css/main.43708318.css.map",
+    "main.2ca64072.js.map": "./static/js/main.2ca64072.js.map"
   },
   "entrypoints": [
     "static/css/main.43708318.css",
-    "static/js/main.f07827a4.js"
+    "static/js/main.2ca64072.js"
   ]
 }
