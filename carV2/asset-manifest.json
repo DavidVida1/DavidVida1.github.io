@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.8f9cbf07.css",
-    "main.js": "/static/js/main.be2954d1.js",
-    "static/media/Chilling.mp4": "/static/media/Chilling.c12040fc20094dcf82ba.mp4",
-    "static/media/Racing.mp4": "/static/media/Racing.8f8fab7dc735c251b192.mp4",
-    "static/media/HeroVideo.mp4": "/static/media/HeroVideo.50439fa04aa11f2d1d80.mp4",
-    "static/media/Social.mp4": "/static/media/Social.343e968cdbe603312c59.mp4",
-    "static/media/Cruising.mp4": "/static/media/Cruising.6bb14a72996eb43de58a.mp4",
-    "static/media/pexels-zsolt-joo.jpg": "/static/media/pexels-zsolt-joo.fa9acdbdb1959b20b56f.jpg",
-    "static/media/taneli-lahtinen-unsplash.jpg": "/static/media/taneli-lahtinen-unsplash.f1cf21dc3d6f40e4f0fe.jpg",
-    "static/media/pexels-piccinng.jpg": "/static/media/pexels-piccinng.21ced588adb2452fe0fb.jpg",
-    "static/media/pixabay-porsche.jpg": "/static/media/pixabay-porsche.123528564dcf9b074b7c.jpg",
-    "index.html": "/index.html",
-    "main.8f9cbf07.css.map": "/static/css/main.8f9cbf07.css.map",
-    "main.be2954d1.js.map": "/static/js/main.be2954d1.js.map"
+    "main.css": "./static/css/main.8f9cbf07.css",
+    "main.js": "./static/js/main.b4734e05.js",
+    "static/media/Chilling.mp4": "./static/media/Chilling.c12040fc20094dcf82ba.mp4",
+    "static/media/Racing.mp4": "./static/media/Racing.8f8fab7dc735c251b192.mp4",
+    "static/media/HeroVideo.mp4": "./static/media/HeroVideo.50439fa04aa11f2d1d80.mp4",
+    "static/media/Social.mp4": "./static/media/Social.343e968cdbe603312c59.mp4",
+    "static/media/Cruising.mp4": "./static/media/Cruising.6bb14a72996eb43de58a.mp4",
+    "static/media/pexels-zsolt-joo.jpg": "./static/media/pexels-zsolt-joo.fa9acdbdb1959b20b56f.jpg",
+    "static/media/taneli-lahtinen-unsplash.jpg": "./static/media/taneli-lahtinen-unsplash.f1cf21dc3d6f40e4f0fe.jpg",
+    "static/media/pexels-piccinng.jpg": "./static/media/pexels-piccinng.21ced588adb2452fe0fb.jpg",
+    "static/media/pixabay-porsche.jpg": "./static/media/pixabay-porsche.123528564dcf9b074b7c.jpg",
+    "index.html": "./index.html",
+    "main.8f9cbf07.css.map": "./static/css/main.8f9cbf07.css.map",
+    "main.b4734e05.js.map": "./static/js/main.b4734e05.js.map"
   },
   "entrypoints": [
     "static/css/main.8f9cbf07.css",
-    "static/js/main.be2954d1.js"
+    "static/js/main.b4734e05.js"
   ]
 }
