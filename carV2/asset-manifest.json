@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.54529b41.css",
-    "main.js": "./static/js/main.390bd529.js",
+    "main.js": "./static/js/main.93b45fcd.js",
     "static/media/Chilling.mp4": "./static/media/Chilling.c12040fc20094dcf82ba.mp4",
     "static/media/Racing.mp4": "./static/media/Racing.8f8fab7dc735c251b192.mp4",
     "static/media/HeroVideo.mp4": "./static/media/HeroVideo.50439fa04aa11f2d1d80.mp4",
@@ -16,10 +16,10 @@
     "static/media/carGo.svg": "./static/media/carGo.d54b3f616b40e336af2eab315b760e3c.svg",
     "index.html": "./index.html",
     "main.54529b41.css.map": "./static/css/main.54529b41.css.map",
-    "main.390bd529.js.map": "./static/js/main.390bd529.js.map"
+    "main.93b45fcd.js.map": "./static/js/main.93b45fcd.js.map"
   },
   "entrypoints": [
     "static/css/main.54529b41.css",
-    "static/js/main.390bd529.js"
+    "static/js/main.93b45fcd.js"
   ]
 }

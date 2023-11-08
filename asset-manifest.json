@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.43708318.css",
-    "main.js": "./static/js/main.1a4bc3da.js",
+    "main.js": "./static/js/main.774992f3.js",
     "static/media/drink.png": "./static/media/drink.575850addf206b445798.png",
     "static/media/bgMontreal.jpg": "./static/media/bgMontreal.33e6b93c9a1ac4a9e67d.jpg",
     "static/media/lambo.jpg": "./static/media/lambo.6af1b1b6041152804440.jpg",
@@ -10,10 +10,10 @@
     "index.html": "./index.html",
     "static/media/form.svg": "./static/media/form.2061e63fd2183d8c78e50127c5c2a08e.svg",
     "main.43708318.css.map": "./static/css/main.43708318.css.map",
-    "main.1a4bc3da.js.map": "./static/js/main.1a4bc3da.js.map"
+    "main.774992f3.js.map": "./static/js/main.774992f3.js.map"
   },
   "entrypoints": [
     "static/css/main.43708318.css",
-    "static/js/main.1a4bc3da.js"
+    "static/js/main.774992f3.js"
   ]
 }
