@@ -239,7 +239,6 @@
 .custom-navbar {
     position: relative;
     z-index: 4;
-
     color: wheat;
 
 }
@@ -258,19 +257,37 @@
 .custom-navbar .custom-nav {
     padding: 0;
     margin: 0;
-    background-color: #2a201c;
+    color: #2a201c;
+
+
 }
 
 .custom-navbar .custom-nav li {
     display: inline-block;
-    color: wheat;
+    color: var(--white);
+    background-color: var(--primary);
+    padding: 5px;
+
+    &:first-child {
+        border-radius: 4px 0px 0px 15px;
+    }
+
+    &:last-child {
+        border-radius: 0px 15px 4px 0px;
+    }
+
+
+
+
 }
 
 .custom-navbar .custom-nav a {
     padding: 10px 15px;
     display: inline-block;
     font-weight: 600;
-    color: wheat;
+    color: white;
+
+
 }
 
 .custom-navbar .custom-nav a:hover {
@@ -357,14 +374,17 @@
 }
 
 .hero-section {
+    height: 100vh;
     padding: 1.3rem 0;
     padding-bottom: 3rem;
     position: relative;
     z-index: 2;
-    background-color: #2a201c;
+    background: linear-gradient(180deg, #2a201c 98%, var(--white) 100%);
     color: wheat;
 
-
+    @media screen and (max-width: 992px) {
+        height: 100%;
+    }
 }
 
 .hero-section h1 {
@@ -432,6 +452,7 @@ p {
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     z-index: 5;
     height: 526px;
+    height: 100%;
 
 }
 
